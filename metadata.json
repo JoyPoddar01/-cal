@@ -1,0 +1,5 @@
+{
+  "name": "SmartCalc Pro",
+  "description": "A fully functional, modern calculator with history tracking and AI-powered math problem solving capabilities using Gemini.",
+  "requestFramePermissions": []
+}
